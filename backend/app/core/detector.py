@@ -21,3 +21,7 @@ class Detector:
 @lru_cache
 def get_detector() -> Detector:
     return Detector()
+
+# @lru_cache
+# loads YOLO once.
+# Not per request.
