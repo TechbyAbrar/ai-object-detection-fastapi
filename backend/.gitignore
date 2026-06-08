@@ -1,0 +1,126 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# C extensions
+
+*.so
+
+# Distribution / packaging
+
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+wheels/
+share/python-wheels/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Type checkers
+
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Linters
+
+.ruff_cache/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+
+.env
+.env.*
+
+# IDEs and Editors
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+
+*.log
+
+# Local databases
+
+*.sqlite3
+*.db
+
+# Build artifacts
+
+*.out
+
+# Python version managers
+
+.python-version
+
+# PDM
+
+.pdm-python
+.pdm-build/
+
+# Poetry
+
+poetry.lock
+
+# Hatch
+
+.hatch/
+
+# PyBuilder
+
+.pybuilder/
+
+# PyCharm
+
+.idea/
+
+# VS Code testing artifacts
+
+.history/
+
+# Coverage
+
+coverage.xml
+
+# Misc
+
+*.swp
+*.swo
+*~
