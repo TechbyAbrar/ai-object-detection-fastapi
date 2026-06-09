@@ -180,6 +180,7 @@ This project is designed to evolve into a **full AI SaaS platform**.
 ---
 
 # 👨‍💻 Author
+Copyright (c) 2026 Md. Abrar Fahim (https://github.com/TechbyAbrar | https://www.linkedin.com/in/techbyabrar/ | https://techbyabrar.netlify.app/)
 
 Built with ❤️ using:
 
