@@ -1,3 +1,9 @@
+
+<img width="986" height="310" alt="image" src="https://github.com/user-attachments/assets/8bf0f865-ed80-4847-92a2-ec02fd311af3" />
+<img width="954" height="891" alt="image" src="https://github.com/user-attachments/assets/57994131-3eec-4a05-aec7-e589011c03b3" />
+<img width="949" height="720" alt="image" src="https://github.com/user-attachments/assets/7dc9477d-3743-41f8-ad10-b1b1d504f07c" />
+
+
 # 🚀 AI Object Detection System (YOLOv8 + FastAPI + React)
 
 A full-stack AI-powered object detection platform built using **YOLOv8**, **FastAPI**, and **React (Vite)**.
